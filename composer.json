@@ -1,0 +1,11 @@
+{
+  "name": "etdsolutions/loadcss",
+  "description": "Shim repository for loadCSS",
+  "homepage": "https://github.com/filamentgroup/loadCSS",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Filament Group"
+    }
+  ]
+}
